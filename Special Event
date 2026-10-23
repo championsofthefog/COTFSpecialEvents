@@ -1,6 +1,6 @@
 {
 	"Name": "LH 2026",
-	"Version": 1792698749,
+	"Version": 1792792232,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "CoTF Lunar Horrors Event Balancing for 2026",
 	"Tiers": [
@@ -69,6 +69,7 @@
 				"86",
 				"89",
 				"90",
+				"94",
 				"96",
 				"98",
 				"320",
@@ -2470,7 +2471,7 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
